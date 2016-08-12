@@ -33,6 +33,7 @@ PLUGINS=(
   rkh/rbenv-update
   rkh/rbenv-whatis
   rkh/rbenv-use
+  andorchen/rbenv-china-mirror
 )
 
 for plugin in ${PLUGINS[@]} ; do
